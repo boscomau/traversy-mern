@@ -10,6 +10,7 @@
     "braces": "^3.0.3",
     "chokidar": "^3.6.0",
     "concat-map": "^0.0.1",
+    "express-async-handler": "^1.2.0",
     "fill-range": "^7.1.1",
     "glob-parent": "^5.1.2",
     "has-flag": "^3.0.0",
@@ -31,7 +32,6 @@
     "touch": "^3.1.1",
     "undefsafe": "^2.0.5"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js"
